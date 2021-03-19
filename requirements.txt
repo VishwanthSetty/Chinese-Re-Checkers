@@ -6,7 +6,7 @@ Django==2.1.2
 django-crispy-forms==1.7.2
 django-filter==2.0.0
 django-mysql==2.4.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 entrypoints==0.2.3
 html5lib==1.0.1
 ipykernel==4.8.2
